@@ -128,7 +128,7 @@ Subjects:
 - Workspace setup: IntelliJ IDEA, Github, Slack
 - Compilation process
 - Hello World
-- Types, variables, operatos
+- Types, variables, operators
 
 ### weeks[1]
 
